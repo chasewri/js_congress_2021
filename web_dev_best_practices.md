@@ -24,6 +24,6 @@ Presentation data at https://jamstack.org/survey/2021/
   - Web Frameworks
     - React higher usage, Vue and Svelte more DX
     - 11ty highest DX, then Gatsby
-    - Next/Nuxt/SvelteKitn high DX
+    - Next/Nuxt/SvelteKit high DX
     - Vite very high DX
     - Web components showing growth?
