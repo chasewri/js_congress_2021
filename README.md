@@ -1,1 +1,1 @@
-# js_congress_2021
+# JavaScript Congress 2021
