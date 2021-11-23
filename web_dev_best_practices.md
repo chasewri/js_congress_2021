@@ -1,5 +1,7 @@
 # Web Development Best Practices 2021
 
+Presentation information at https://jamstack.org/survey/2021/
+
 - Laurie Voss ( former CTO npm )
 
 - Developer experience and satisfaction
